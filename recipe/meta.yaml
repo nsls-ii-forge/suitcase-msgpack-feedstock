@@ -29,7 +29,6 @@ requirements:
 test:
   imports:
     - suitcase.msgpack
-    - suitcase.msgpack.tests
 
 about:
   home: https://blueskyproject.io/suitcase
